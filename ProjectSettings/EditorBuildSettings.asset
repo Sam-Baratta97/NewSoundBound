@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Playground.unity
+    guid: 270f8c12e6e0e204eadd74feda8c8482
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b38d93ab5271ec44dad74d7d05b5aa16
+  - enabled: 1
+    path: Assets/Scenes/HelpScreen.unity
+    guid: f7e136d222274874cbd4d99c3faf0660
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: c60e412351512064681c0c9e9a297ef0
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 10d10cce9ef585349a20191c89311059
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: c030240bbddad0d478fa9e62063aa56c
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 1dace0a67be88bf42814daebeb7b38d5
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: d11c61fa5d0cf8442a536856e1fd7239
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 4821c8eded0836749920ced5d4ce019a
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: e1c548bda02f4df40a6fb391c37405f0
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 5b320359f27f8d44ebc69ba65a4b6bec
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 9ca80e5d149d11a4ba8ca16a3f7bc716
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: 8a544b6d9b3ada146888bbdee32fca2a
+  - enabled: 1
+    path: Assets/Scenes/Level11.unity
+    guid: f61c3ffbfcb66bc479d72b6925bfea57
+  - enabled: 1
+    path: Assets/Scenes/Level12.unity
+    guid: c5002d9bb6d1a5e46ae51371c0ce034a
+  - enabled: 1
+    path: Assets/Scenes/Level13.unity
+    guid: ed9fdd19391616440a726069a5360008
+  - enabled: 1
+    path: Assets/Scenes/Level14.unity
+    guid: 22f827fcc4f344a408410aa9424dd1b4
+  - enabled: 1
+    path: Assets/Scenes/Level15.unity
+    guid: ff6857f413b604a41afab407358f5369
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 98ca5bd61b5f2d347b7954d9e2960b3a
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 6ddf7b487f5ba4744b96a514545fabb0
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
